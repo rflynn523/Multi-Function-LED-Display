@@ -1,11 +1,13 @@
 # Multi-Function-LED-Display
 
-This repository is holds the header file and the source code that my Seven Segment Multi-Function Display uses.
+This repository is holds the header file and the source code that my Multi-Function LED Display uses.
+I made this using two seven segment LEDs and the MSP-EXP430 G2 Launchpad Microcontroller.
+
   The display currently has six modes:
  
- Mode 0 (Count): The display will simply show a number starting at 0 and ending at 99. The number is incremented when pressed.
+ Mode 0 (Count): The display will simply show a number starting at 0 and ending at 99. The number is incremented when the button is pressed.
    
- Mode 1 (Morse Code): Flashes a pre-programmed message onto the seven segment display on the right.
+ Mode 1 (Morse Code): Flashes a pre-programmed message in morse code onto the seven segment display on the right.
  
  Mode 2 (Random Number): This mode allows the user to select a random number using the button and the LEDs will display a random number between 1 and that number.
  
