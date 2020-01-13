@@ -11,8 +11,8 @@ This repository is holds the header file and the source code that my Seven Segme
  
  Mode 3 (Timer): The user can again select a number (1 - 99) to be set as standard timer. They also have the choice of selecting seconds, minutes, or hours.
  
- Mode 4 (Stop Watch): This mode acts as a typical stopwatch. Pressing the button will pause the time and will reset the stopwatch after it has been paused for more than a few seconds.
+ Mode 4 (Stopwatch): This mode acts as a typical stopwatch. Pressing the button will pause the time and will reset the stopwatch after it has been paused for more than a few seconds.
  
  Mode 5: (Shot Clock): Acts as an NBA 24 second shot clock. Once the time is up it will automatically reset back to 24.
 
-A demo video can be seen at this link: 
+A demo video can be seen at this link: https://youtu.be/Ino6i9vFSoI 
