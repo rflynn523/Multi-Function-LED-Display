@@ -9,7 +9,7 @@ I made this using two seven segment LEDs and the MSP-EXP430 G2 Launchpad Microco
    
  - Mode 1 (Morse Code): Flashes a pre-programmed message in morse code onto the seven segment display on the right.
  
- - Mode 2 (Random Number): This mode allows the user to select a random number using the button and the LEDs will display a random number between 1 and that number.
+ - Mode 2 (Random Number): This mode allows the user to select a maximum number using the button and then the LEDs will display a random number between 1 and that max number.
  
  - Mode 3 (Timer): The user can again select a number (1 - 99) to be set as standard timer. They also have the choice of selecting seconds, minutes, or hours.
  
